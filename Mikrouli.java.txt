@@ -1,0 +1,9 @@
+public class Mikrouli {
+    int zombie = 1000;
+    public String zombie(int zombie) {
+        if (zombie >= 500) {
+            return "hrthe h apokalupsh twn zombie trexte sta elikoptera na swtheite";
+        } else
+            return "koimitheite hsuxoi tha pethanete allh fora";
+    }
+}
